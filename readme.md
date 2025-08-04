@@ -75,7 +75,7 @@ https://github.com/user-attachments/assets/5edb6cef-b0b8-4e29-bb5b-ef16a80026e2
 
 ```
 
-每个像素会被重复N变，这样就够像素了。
+每个像素会被重复N遍，这样就够像素了。
 
 至于曝光度显影嘛……如果观察分离出来的图就知道了：
 
