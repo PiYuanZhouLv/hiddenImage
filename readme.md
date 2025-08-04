@@ -8,7 +8,9 @@
 
 但在他告诉我正确的食用方法：+亮度、+曝光度之后……
 
-<video src="readme-img/woc.mp4"></video>
+
+https://github.com/user-attachments/assets/5edb6cef-b0b8-4e29-bb5b-ef16a80026e2
+
 
 卧槽？！
 
