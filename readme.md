@@ -1,5 +1,10 @@
 # 一种新型的涩图隐藏方式？
 
+> **Update：找到组织了（bushi**
+> 这几天冲浪的时候偶然发现了这种藏图方式的记录。此法名为“光棱坦克”，另附：
+> + 贴吧地址 [开个贴细说新式高科技坦克](https://tieba.baidu.com/p/9093709508)
+> + 一个无门槛解密工具 [光棱坦克工厂](https://prism.uyanide.com/) 及其源码 [Uyanide/Mirage_Decode](https://github.com/Uyanide/Mirage_Decode)
+
 最近，我朋友从他的QQ群里给我分享了一张涩图
 
 ![涩图.png](readme-img/setu.png)
